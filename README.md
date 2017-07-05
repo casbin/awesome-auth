@@ -29,6 +29,11 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - [PHP-RBAC](https://github.com/OWASP/rbac) - An authorization library for PHP which provides developers with NIST Level 2 Hierarchical Role Based Access Control.
 - [ezRbac](https://github.com/xiidea/ezRbac) - A simple yet easy to implement Role Based Access Control Library for popular PHP framework [Codeigniter](https://github.com/bcit-ci/CodeIgniter).
 
+### Python
+
+- [Simple RBAC](https://github.com/tonyseek/simple-rbac) - A simple role based access control utility for Python.
+- [Flask-RBAC](https://github.com/shonenada/flask-rbac) - Adds RBAC support to [Flask](https://github.com/pallets/flask).
+
 ## Contribute
 
 PR is welcomed.
