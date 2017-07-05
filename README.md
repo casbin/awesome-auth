@@ -9,7 +9,11 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 
 ### Java
 
-- [Apache Shiro](https://github.com/apache/shiro) - a powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management.
+- [Apache Shiro](https://github.com/apache/shiro) - A powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management.
+
+### Python
+
+- [Keystone](https://github.com/openstack/keystone) - Provides authentication, authorization and service discovery mechanisms via HTTP primarily for use by projects in the OpenStack family..
 
 ### Ruby
 
