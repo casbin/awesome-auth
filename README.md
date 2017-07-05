@@ -7,9 +7,15 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 
 ## Authentication
 
+## C#
+
+- [Xamarin.Auth](https://github.com/xamarin/Xamarin.Auth) - Helps developers authenticate users via standard authentication mechanisms (e.g. OAuth 1.0 and 2.0), and store user credentials.
+- [Kentor Authentication Services](https://github.com/KentorIT/authservices) - Saml2 Authentication services for ASP.NET.
+
 ### Java
 
 - [Apache Shiro](https://github.com/apache/shiro) - A powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management.
+- [Spring Security OAuth](https://github.com/spring-projects/spring-security-oauth) - Provides support for using Spring Security with OAuth (1a) and OAuth2.
 
 ### Python
 
@@ -45,7 +51,6 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 ### Java
 
 - [AT&T XACML](https://github.com/att/XACML) - AT&T XACML 3.0 Implementation.
-- [Spring Security OAuth](https://github.com/spring-projects/spring-security-oauth) - Provides support for using Spring Security with OAuth (1a) and OAuth2.
 - [Apache Shiro](https://github.com/apache/shiro) - A powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management.
 - [Apache Sentry](https://github.com/apache/sentry) - A highly modular system for providing fine grained role based authorization to both data and metadata stored on an Apache Hadoop cluster.
 
