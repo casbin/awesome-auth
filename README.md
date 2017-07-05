@@ -72,6 +72,10 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - [Simple RBAC](https://github.com/tonyseek/simple-rbac) - A simple role based access control utility for Python.
 - [Flask-RBAC](https://github.com/shonenada/flask-rbac) - Adds RBAC support to [Flask](https://github.com/pallets/flask).
 
+### TypeScript
+
+- [accesscontrol](https://github.com/onury/accesscontrol) - Role and Attribute based Access Control for Node.js.
+
 ## Contribute
 
 PR is welcomed.
