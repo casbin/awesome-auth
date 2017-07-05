@@ -15,6 +15,10 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 
 - [Apache Shiro](https://github.com/apache/shiro) - a powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management.
 
+### Ruby
+
+- [Authlogic](https://github.com/binarylogic/authlogic) - A clean, simple, and unobtrusive ruby authentication solution.
+
 ## Authorization
 
 ### Golang
@@ -31,6 +35,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 
 ### JavaScript
 
+- [RBAC](https://github.com/CherryProjects/rbac) - Hierarchical Role Based Access Control for NodeJS.
 - [ABAC](https://github.com/vovantics/abac) - Attribute based access control for Node.js.
 
 ### PHP
