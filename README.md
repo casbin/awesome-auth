@@ -28,9 +28,14 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - [goRBAC](https://github.com/mikespook/gorbac) - A lightweight role-based access control implementation in Golang.
 - [Ladon](https://github.com/ory/ladon) - A SDK for access control policies: authorization for the microservice and IoT age.
 
+### iOS
+
+- [Permission](https://github.com/delba/Permission) - A unified API to ask for permissions on iOS.
+
 ### Java
 
 - [AT&T XACML](https://github.com/att/XACML) - AT&T XACML 3.0 Implementation.
+- [Spring Security OAuth](https://github.com/spring-projects/spring-security-oauth) - Provides support for using Spring Security with OAuth (1a) and OAuth2.
 - [Apache Shiro](https://github.com/apache/shiro) - A powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management.
 - [Apache Sentry](https://github.com/apache/sentry) - A highly modular system for providing fine grained role based authorization to both data and metadata stored on an Apache Hadoop cluster.
 
