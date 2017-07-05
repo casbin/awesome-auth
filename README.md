@@ -43,6 +43,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - [Casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC.
 - [goRBAC](https://github.com/mikespook/gorbac) - A lightweight role-based access control implementation in Golang.
 - [Ladon](https://github.com/ory/ladon) - A SDK for access control policies: authorization for the microservice and IoT age.
+- [Foulkon](https://github.com/Tecsisa/foulkon) - An authorization server that allows or denies access to web resources..
 
 ### iOS
 
