@@ -15,6 +15,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 
 - [Keystone](https://github.com/openstack/keystone) - Provides authentication, authorization and service discovery mechanisms via HTTP primarily for use by projects in the OpenStack family..
 - [Authomatic](https://github.com/authomatic/authomatic) - Simple yet powerful authorization & authentication client library for Python web applications.
+- [Python Social Auth](https://github.com/python-social-auth/social-core) - An easy to setup social authentication/registration mechanism with support for several frameworks and auth providers.
 
 ### Ruby
 
