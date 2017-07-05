@@ -17,6 +17,10 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 
 ## Authorization
 
+### Android
+
+- [AndPermission](https://github.com/yanzhenjie/AndPermission) - Android Runtime Permission, support the right to apply for permission at any place.
+
 ### C#
 
 - [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth) - The C# implementation of the OpenID, OAuth protocols.
@@ -49,6 +53,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - [PHP-RBAC](https://github.com/OWASP/rbac) - An authorization library for PHP which provides developers with NIST Level 2 Hierarchical Role Based Access Control.
 - [ezRbac](https://github.com/xiidea/ezRbac) - A simple yet easy to implement Role Based Access Control Library for popular PHP framework [Codeigniter](https://github.com/bcit-ci/CodeIgniter).
 - [php-abac](https://github.com/Kilix/php-abac) - Attributes Based Access Control library.
+- [laravel-permission](https://github.com/spatie/laravel-permission) - Allows you to manage user permissions and roles in a database.
 
 ### Python
 
