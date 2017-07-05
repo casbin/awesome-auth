@@ -17,13 +17,17 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 
 - [Casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC.
 - [goRBAC](https://github.com/mikespook/gorbac) - A lightweight role-based access control implementation in Golang.
-- [Ladon](https://github.com/ory/ladon) - A SDK for access control policies: authorization for the microservice and IoT age..
+- [Ladon](https://github.com/ory/ladon) - A SDK for access control policies: authorization for the microservice and IoT age.
 
 ### Java
 
 - [Apache Shiro](https://github.com/apache/shiro) - A powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management.
-- [Apache Sentry](https://github.com/apache/sentry) - A highly modular system for providing fine grained role based authorization to both data and metadata stored on an Apache Hadoop cluster..
+- [Apache Sentry](https://github.com/apache/sentry) - A highly modular system for providing fine grained role based authorization to both data and metadata stored on an Apache Hadoop cluster.
 
+### PHP
+
+- [PHP-RBAC](https://github.com/OWASP/rbac) - An authorization library for PHP which provides developers with NIST Level 2 Hierarchical Role Based Access Control.
+- [ezRbac](https://github.com/xiidea/ezRbac) - A simple yet easy to implement Role Based Access Control Library for popular PHP framework [Codeigniter](https://github.com/bcit-ci/CodeIgniter).
 
 ## Contribute
 
