@@ -15,6 +15,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 ### Java
 
 - [Apache Shiro](https://github.com/apache/shiro) - A powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management.
+- [pac4j](https://github.com/pac4j/pac4j) - Security engine for Java (authentication, authorization, multi frameworks): OAuth, CAS, SAML, OpenID Connect, LDAP, JWT.
 - [Spring Security OAuth](https://github.com/spring-projects/spring-security-oauth) - Provides support for using Spring Security with OAuth (1a) and OAuth2.
 
 ### Python
@@ -51,8 +52,9 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 
 ### Java
 
-- [AT&T XACML](https://github.com/att/XACML) - AT&T XACML 3.0 Implementation.
 - [Apache Shiro](https://github.com/apache/shiro) - A powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management.
+- [pac4j](https://github.com/pac4j/pac4j) - Security engine for Java (authentication, authorization, multi frameworks): OAuth, CAS, SAML, OpenID Connect, LDAP, JWT.
+- [AT&T XACML](https://github.com/att/XACML) - AT&T XACML 3.0 Implementation.
 - [Apache Sentry](https://github.com/apache/sentry) - A highly modular system for providing fine grained role based authorization to both data and metadata stored on an Apache Hadoop cluster.
 
 ### JavaScript
