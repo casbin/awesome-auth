@@ -7,10 +7,6 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 
 ## Authentication
 
-### C#
-
-- [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth) - The C# implementation of the OpenID, OAuth protocols.
-
 ### Java
 
 - [Apache Shiro](https://github.com/apache/shiro) - a powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management.
@@ -20,6 +16,11 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - [Authlogic](https://github.com/binarylogic/authlogic) - A clean, simple, and unobtrusive ruby authentication solution.
 
 ## Authorization
+
+### C#
+
+- [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth) - The C# implementation of the OpenID, OAuth protocols.
+- [AuthorizationServer](https://github.com/IdentityModel/AuthorizationServer) - Sample implementation of an OAuth2 Authorization Server.
 
 ### Golang
 
@@ -42,6 +43,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 
 - [PHP-RBAC](https://github.com/OWASP/rbac) - An authorization library for PHP which provides developers with NIST Level 2 Hierarchical Role Based Access Control.
 - [ezRbac](https://github.com/xiidea/ezRbac) - A simple yet easy to implement Role Based Access Control Library for popular PHP framework [Codeigniter](https://github.com/bcit-ci/CodeIgniter).
+- [php-abac](https://github.com/Kilix/php-abac) - Attributes Based Access Control library.
 
 ### Python
 
