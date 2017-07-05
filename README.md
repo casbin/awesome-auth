@@ -11,6 +11,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 
 - [Xamarin.Auth](https://github.com/xamarin/Xamarin.Auth) - Helps developers authenticate users via standard authentication mechanisms (e.g. OAuth 1.0 and 2.0), and store user credentials.
 - [Kentor Authentication Services](https://github.com/KentorIT/authservices) - Saml2 Authentication services for ASP.NET.
+- [SimpleAuthentication](https://github.com/SimpleAuthentication/SimpleAuthentication) - a ASP.NET library that makes it really easy and simple for developers to add Social Authentication to an ASP.NET application.
 
 ### Java
 
