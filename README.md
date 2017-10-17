@@ -87,4 +87,4 @@ PR is welcomed.
 
 ## License
 
-This project is licensed under the [Apache 2.0 license](https://github.com/casbin/awesome-auth/blob/master/LICENSE).
+This project is licensed under the [CC0-1.0 license](https://github.com/casbin/awesome-auth/blob/master/LICENSE).
