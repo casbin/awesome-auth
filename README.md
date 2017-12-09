@@ -48,6 +48,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - [goRBAC](https://github.com/mikespook/gorbac) - Lightweight role-based access control implementation in Golang.
 - [Ladon](https://github.com/ory/ladon) - SDK for access control policies: authorization for the microservice and IoT age.
 - [Foulkon](https://github.com/Tecsisa/foulkon) - Authorization server that allows or denies access to web resources..
+- [Gocialite](https://github.com/danilopolani/gocialite) - Social oAuth login in Go with multiple providers has never been so easy
 
 ### iOS
 
