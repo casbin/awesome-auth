@@ -41,6 +41,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 
 - [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth) - C# implementation of the OpenID, OAuth protocols.
 - [AuthorizationServer](https://github.com/IdentityModel/AuthorizationServer) - Sample implementation of an OAuth2 Authorization Server.
+- [IdentityServer4](https://github.com/IdentityServer/IdentityServer4) - OpenID Connect and OAuth 2.0 Framework for ASP.NET Core
 
 ### Golang
 
