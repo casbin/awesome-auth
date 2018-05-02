@@ -16,6 +16,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - [SimpleAuthentication](https://github.com/SimpleAuthentication/SimpleAuthentication) - ASP.NET library that makes it really easy and simple for developers to add Social Authentication to an ASP.NET application.
 - [OwinOAuthProviders](https://github.com/TerribleDev/OwinOAuthProviders) - OAuth providers for Owin
 - [AspNet.Security.OAuth.Providers](https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers) - OAuth2 social authentication providers for ASP.NET Core
+- [IdentityServer4](https://github.com/IdentityServer/IdentityServer4) - OpenID Connect and OAuth 2.0 Framework for ASP.NET Core
 
 ### Java
 
@@ -43,7 +44,6 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 
 - [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth) - C# implementation of the OpenID, OAuth protocols.
 - [AuthorizationServer](https://github.com/IdentityModel/AuthorizationServer) - Sample implementation of an OAuth2 Authorization Server.
-- [IdentityServer4](https://github.com/IdentityServer/IdentityServer4) - OpenID Connect and OAuth 2.0 Framework for ASP.NET Core
 
 ### Golang
 
