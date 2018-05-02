@@ -14,6 +14,9 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - [Xamarin.Auth](https://github.com/xamarin/Xamarin.Auth) - Helps developers authenticate users via standard authentication mechanisms (e.g. OAuth 1.0 and 2.0), and store user credentials.
 - [Kentor Authentication Services](https://github.com/KentorIT/authservices) - Saml2 Authentication services for ASP.NET.
 - [SimpleAuthentication](https://github.com/SimpleAuthentication/SimpleAuthentication) - ASP.NET library that makes it really easy and simple for developers to add Social Authentication to an ASP.NET application.
+- [OwinOAuthProviders](https://github.com/TerribleDev/OwinOAuthProviders) - OAuth providers for Owin
+- [AspNet.Security.OAuth.Providers](https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers) - OAuth2 social authentication providers for ASP.NET Core
+- [IdentityServer4](https://github.com/IdentityServer/IdentityServer4) - OpenID Connect and OAuth 2.0 Framework for ASP.NET Core
 
 ### Java
 
