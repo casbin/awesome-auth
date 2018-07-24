@@ -63,6 +63,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - [pac4j](https://github.com/pac4j/pac4j) - Security engine for Java (authentication, authorization, multi frameworks): OAuth, CAS, SAML, OpenID Connect, LDAP, JWT.
 - [AT&T XACML](https://github.com/att/XACML) - AT&T XACML 3.0 Implementation.
 - [Apache Sentry](https://github.com/apache/sentry) - Highly modular system for providing fine grained role based authorization to both data and metadata stored on an Apache Hadoop cluster.
+- [TOTP Server-Side Library](https://github.com/wstrange/GoogleAuth) - TOTP server-side library
 
 ### JavaScript
 
