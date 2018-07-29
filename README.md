@@ -6,10 +6,28 @@ Authentication (aka AuthN) and authorization (aka AuthZ) are both security measu
 
 Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness), and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).
 
+## Contents
+
+- [Authentication](#authentication)
+	- [C#](#c)
+	- [Java](#java)
+	- [Python](#python)
+	- [Ruby](#ruby)
+
+- [Authorization](#authorization)
+	- [Android](#android)
+	- [C#](#c)
+	- [Golang](#golang)
+	- [iOS](#ios)
+	- [Java](#java)
+	- [JavaScript](#javascript)
+	- [PHP](#php)
+	- [Python](#python)
+	- [TypeScript](#typescript)
 
 ## Authentication
 
-## C#
+### C#
 
 - [Xamarin.Auth](https://github.com/xamarin/Xamarin.Auth) - Helps developers authenticate users via standard authentication mechanisms (e.g. OAuth 1.0 and 2.0), and store user credentials.
 - [Kentor Authentication Services](https://github.com/KentorIT/authservices) - Saml2 Authentication services for ASP.NET.
