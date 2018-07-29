@@ -11,6 +11,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - [Authentication](#authentication)
 	- [C#](#c)
 	- [Java](#java)
+	- [JavaScript](#javascript)
 	- [Python](#python)
 	- [Ruby](#ruby)
 
@@ -41,6 +42,10 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - [Apache Shiro](https://github.com/apache/shiro) - Powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management.
 - [pac4j](https://github.com/pac4j/pac4j) - Security engine for Java (authentication, authorization, multi frameworks): OAuth, CAS, SAML, OpenID Connect, LDAP, JWT.
 - [Spring Security OAuth](https://github.com/spring-projects/spring-security-oauth) - Provides support for using Spring Security with OAuth (1a) and OAuth2.
+
+### JavaScript
+
+- [Passport](http://www.passportjs.org/) - Simple, unobtrusive authentication for Node.js. A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
 
 ### Python
 
