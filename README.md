@@ -24,7 +24,6 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 	- [JavaScript](#authZ-node)
 	- [PHP](#authZ-php)
 	- [Python](#authZ-python)
-	- [TypeScript](#authZ-typescript)
 
 ## Authentication
 
