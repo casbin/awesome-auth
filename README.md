@@ -70,7 +70,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 
 ### Golang
 
-- [Casbin](https://github.com/casbin/casbin) - Authorization library that supports access control models like ACL, RBAC, ABAC.
+- [Casbin](https://github.com/casbin/casbin) - Authorization library that supports access control models like ACL, RBAC, ABAC in Golang.
 - [goRBAC](https://github.com/mikespook/gorbac) - Lightweight role-based access control implementation in Go.
 - [Ladon](https://github.com/ory/ladon) - SDK for access control policies: authorization for the microservice and IoT age.
 - [Foulkon](https://github.com/Tecsisa/foulkon) - Authorization server that allows or denies access to web resources.
@@ -82,6 +82,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 
 ### Java
 
+- [jCasbin](https://github.com/casbin/jcasbin) - Authorization library that supports access control models like ACL, RBAC, ABAC in Java.
 - [Apache Shiro](https://github.com/apache/shiro) - Powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management.
 - [pac4j](https://github.com/pac4j/pac4j) - Security engine for Java (authentication, authorization, multi-frameworks): OAuth, CAS, SAML, OpenID Connect, LDAP, JWT.
 - [AT&T XACML](https://github.com/att/XACML) - AT&T XACML 3.0 implementation.
