@@ -43,7 +43,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - [pac4j](https://github.com/pac4j/pac4j) - Security engine for Java (authentication, authorization, multi frameworks): OAuth, CAS, SAML, OpenID Connect, LDAP, JWT.
 - [Spring Security OAuth](https://github.com/spring-projects/spring-security-oauth) - Provides support for using Spring Security with OAuth (1a) and OAuth2.
 
-### JavaScript
+### Node.js
 
 - [Passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js. A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
 
@@ -89,10 +89,11 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - [Apache Sentry](https://github.com/apache/sentry) - Highly modular system for providing fine grained role based authorization to both data and metadata stored on an Apache Hadoop cluster.
 - [TOTP Server-Side Library](https://github.com/wstrange/GoogleAuth) - TOTP server-side library.
 
-### JavaScript
+### Node.js
 
 - [RBAC](https://github.com/CherryProjects/rbac) - Hierarchical role-based access control for Node.js.
 - [ABAC](https://github.com/vovantics/abac) - Attribute-based access control for Node.js.
+- [accesscontrol](https://github.com/onury/accesscontrol) - Role and attribute-based access control for Node.js.
 
 ### PHP
 
@@ -105,10 +106,6 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 
 - [Simple RBAC](https://github.com/tonyseek/simple-rbac) - Simple role-based access control utility for Python.
 - [Flask-RBAC](https://github.com/shonenada/flask-rbac) - Adds RBAC support to [Flask](https://github.com/pallets/flask).
-
-### TypeScript
-
-- [accesscontrol](https://github.com/onury/accesscontrol) - Role and attribute-based access control for Node.js.
 
 ## Contribute
 
