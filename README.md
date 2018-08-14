@@ -11,7 +11,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - [Authentication](#authentication)
 	- [C#](#authN-cSharp)
 	- [Java](#authN-java)
-	- [JavaScript](#authN-node)
+	- [Node.js](#authN-node)
 	- [Python](#authN-python)
 	- [Ruby](#authN-ruby)
 
@@ -21,7 +21,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 	- [Golang](#authZ-golang)
 	- [iOS](#authZ-ios)
 	- [Java](#authZ-java)
-	- [JavaScript](#authZ-node)
+	- [Node.js](#authZ-node)
 	- [PHP](#authZ-php)
 	- [Python](#authZ-python)
 
