@@ -41,6 +41,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 
 - [ORY Hydra](https://github.com/ory/hydra) - OpenID Connect certified OAuth2 server.
 - [ORY Oathkeeper](https://github.com/ory/oathkeeper) - Identity/Access proxy inspired by the BeyondCorp/Zero-Trust white paper.
+- [ORY Fosite](https://github.com/ory/fosite) - Extensible OAuth 2.0 and OpenID Connect SDK for Golang.
 
 ### <a name="authN-java"></a>Java
 
