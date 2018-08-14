@@ -10,6 +10,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 
 - [Authentication](#authentication)
 	- [C#](#authN-cSharp)
+	- [Golang](#authN-golang)
 	- [Java](#authN-java)
 	- [Node.js](#authN-node)
 	- [Python](#authN-python)
@@ -35,6 +36,10 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - [OwinOAuthProviders](https://github.com/TerribleDev/OwinOAuthProviders) - OAuth providers for Owin.
 - [AspNet.Security.OAuth.Providers](https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers) - OAuth2 social authentication providers for ASP.NET Core.
 - [IdentityServer4](https://github.com/IdentityServer/IdentityServer4) - OpenID Connect & OAuth 2.0 framework for ASP.NET Core.
+
+### <a name="authN-golang"></a>Golang
+
+- [ORY Hydra](https://github.com/ory/hydra) - OpenID Connect certified OAuth2 server.
 
 ### <a name="authN-java"></a>Java
 
