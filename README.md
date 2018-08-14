@@ -98,6 +98,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 
 ### PHP
 
+- [PHP-Casbin](https://github.com/sstutz/php-casbin) - Authorization library that supports access control models like ACL, RBAC, ABAC in PHP.
 - [PHP-RBAC](https://github.com/OWASP/rbac) - Authorization library for PHP which provides developers with NIST Level 2 hierarchical role-based access control.
 - [ezRbac](https://github.com/xiidea/ezRbac) - Simple yet easy to implement role-based access control library for popular PHP framework: [Codeigniter](https://github.com/bcit-ci/CodeIgniter).
 - [php-abac](https://github.com/Kilix/php-abac) - Attribute-based access control library.
