@@ -40,6 +40,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 ### <a name="authN-golang"></a>Golang
 
 - [ORY Hydra](https://github.com/ory/hydra) - OpenID Connect certified OAuth2 server.
+- [ORY Oathkeeper](https://github.com/ory/oathkeeper) - Identity/Access proxy inspired by the BeyondCorp/Zero-Trust white paper.
 
 ### <a name="authN-java"></a>Java
 
