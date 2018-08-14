@@ -91,6 +91,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 
 ### Node.js
 
+- [Node-Casbin](https://github.com/casbin/node-casbin) - Authorization library that supports access control models like ACL, RBAC, ABAC in Node.js.
 - [RBAC](https://github.com/CherryProjects/rbac) - Hierarchical role-based access control for Node.js.
 - [ABAC](https://github.com/vovantics/abac) - Attribute-based access control for Node.js.
 - [accesscontrol](https://github.com/onury/accesscontrol) - Role and attribute-based access control for Node.js.
