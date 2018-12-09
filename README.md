@@ -52,6 +52,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 ### <a name="authN-node"></a>Node.js
 
 - [Passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js. A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
+- [bell](https://github.com/hapijs/bell) - Third-party authentication plugin for hapi. Ships with built-in support for various well-known sites and simple configuration object will support other OAuth 1.0a and OAuth 2.0 sites.
 
 ### <a name="authN-python"></a>Python
 
