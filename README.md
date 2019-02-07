@@ -111,6 +111,8 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - [ezRbac](https://github.com/xiidea/ezRbac) - Simple yet easy to implement role-based access control library for popular PHP framework: [Codeigniter](https://github.com/bcit-ci/CodeIgniter).
 - [php-abac](https://github.com/Kilix/php-abac) - Attribute-based access control library.
 - [laravel-permission](https://github.com/spatie/laravel-permission) - Allows you to manage user permissions and roles in a database.
+- [logical-permissions-php](https://github.com/ordermind/logical-permissions-php) - This is a generic library that provides support for array-based permissions with logic gates such as AND and OR.
+- [symfony-logical-authorization-bundle](https://github.com/ordermind/symfony-logical-authorization-bundle) - This Symfony bundle provides a unifying solution for authorization that aims to be flexible, convenient and consistent.
 
 ### <a name="authZ-python"></a>Python
 
