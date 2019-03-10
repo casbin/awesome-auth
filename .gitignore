@@ -1,3 +1,8 @@
-# Ignore IDEA files.
-.idea/
-*.iml
+.idea
+.vscode
+node_modules
+lib
+yarn-error.log
+
+package-lock.json
+yarn.lock
