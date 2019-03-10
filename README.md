@@ -4,8 +4,6 @@
 
 Authentication (aka AuthN) and authorization (aka AuthZ) are both security measures. Authentication is the process of verifying who you are. Authorization is the process of verifying that you have access to something. Authorization occurs after successful authentication.
 
-Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness), and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).
-
 ## Contents
 
 - [Authentication](#authentication)
