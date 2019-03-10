@@ -1,4 +1,4 @@
-# Awesome Authentication & Authorization [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Build Status](https://travis-ci.org/casbin/awesome-auth.svg?branch=master)](https://travis-ci.org/casbin/awesome-auth)
+# Awesome Authentication & Authorization [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Quality Authentication & Authorization software and libraries.
 
