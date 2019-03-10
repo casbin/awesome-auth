@@ -24,6 +24,8 @@
 	- [PHP](#authZ-php)
 	- [Python](#authZ-python)
 
+- [Articles](#articles)
+
 ## Authentication
 
 ### <a name="authN-cSharp"></a>C#
@@ -116,6 +118,13 @@
 
 - [Simple RBAC](https://github.com/tonyseek/simple-rbac) - Simple role-based access control utility for Python.
 - [Flask-RBAC](https://github.com/shonenada/flask-rbac) - Adds RBAC support to [Flask](https://github.com/pallets/flask).
+
+## Articles
+
+- [Modeling Authorization with PERM in Casbin](https://vicarie.in/posts/generalized-authz.html)
+- [Basic Role-Based HTTP Authorization in Go with Casbin](https://zupzup.org/casbin-http-role-auth)
+- [Policy enforcements on Kubernetes with Banzai Cloud's Pipeline and Casbin](https://banzaicloud.com/blog/policy-enforcement-k8s/)
+- [Organizational RBAC in Argo CD with Casbin](https://argoproj.github.io/docs/argo-cd/docs/rbac.html)
 
 ## Contribute
 
