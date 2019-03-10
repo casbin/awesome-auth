@@ -1,4 +1,4 @@
-# Awesome Auth [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Authentication & Authorization [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Quality Authentication & Authorization software and libraries.
 
