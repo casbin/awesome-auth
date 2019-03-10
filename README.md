@@ -70,7 +70,7 @@
 
 ### <a name="authZ-cSharp"></a>C#
 
-- [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth) - C# implementation of the OpenID, OAuth protocols.
+- [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth) - Implementation of the OpenID, OAuth protocols.
 - [AuthorizationServer](https://github.com/IdentityModel/AuthorizationServer) - Sample implementation of an OAuth2 authorization server.
 
 ### <a name="authZ-golang"></a>Golang
@@ -91,7 +91,7 @@
 - [jCasbin](https://github.com/casbin/jcasbin) - Authorization library that supports access control models like ACL, RBAC, ABAC in Java.
 - [Apache Shiro](https://github.com/apache/shiro) - Powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management.
 - [pac4j](https://github.com/pac4j/pac4j) - Security engine for Java (authentication, authorization, multi-frameworks): OAuth, CAS, SAML, OpenID Connect, LDAP, JWT.
-- [AT&T XACML](https://github.com/att/XACML) - AT&T XACML 3.0 implementation.
+- [AT&T XACML](https://github.com/att/XACML) - XACML 3.0 implementation from AT&T.
 - [Apache Sentry](https://github.com/apache/sentry) - Highly modular system for providing fine grained role based authorization to both data and metadata stored on an Apache Hadoop cluster.
 - [TOTP Server-Side Library](https://github.com/wstrange/GoogleAuth) - TOTP server-side library.
 
