@@ -72,6 +72,7 @@
 
 ### <a name="authZ-cSharp"></a>C#
 
+- [Casbin.NET](https://github.com/casbin/Casbin.NET) - Authorization library that supports access control models like ACL, RBAC, ABAC in .NET (C#).
 - [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth) - Implementation of the OpenID, OAuth protocols.
 - [AuthorizationServer](https://github.com/IdentityModel/AuthorizationServer) - Sample implementation of an OAuth2 authorization server.
 
