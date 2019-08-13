@@ -120,6 +120,7 @@
 - [PyCasbin](https://github.com/casbin/pycasbin) - Authorization library that supports access control models like ACL, RBAC, ABAC in Python.
 - [Simple RBAC](https://github.com/tonyseek/simple-rbac) - Simple role-based access control utility for Python.
 - [Flask-RBAC](https://github.com/shonenada/flask-rbac) - Adds RBAC support to [Flask](https://github.com/pallets/flask).
+- [Vakt](https://github.com/kolotaev/vakt) - Attribute-based access control (ABAC) SDK for Python.
 
 ## Articles
 
