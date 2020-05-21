@@ -18,6 +18,7 @@
 	- [Android](#authZ-android)
 	- [C#](#authZ-cSharp)
 	- [Golang](#authZ-golang)
+	- [Rust](#authZ-rust)
 	- [iOS](#authZ-ios)
 	- [Java](#authZ-java)
 	- [Node.js](#authZ-node)
@@ -84,6 +85,12 @@
 - [Foulkon](https://github.com/Tecsisa/foulkon) - Authorization server that allows or denies access to web resources.
 - [Gocialite](https://github.com/danilopolani/gocialite) - Social OAuth login in Go with multiple providers has never been so easy.
 - [ORY Keto](https://github.com/ory/keto) - Access control server capable of solving complex use cases (multi-tenant, attribute-based access control, etc.) with access control policies.
+
+
+### <a name="authZ-rust"></a>Rust
+
+- [Casbin-Rs](https://github.com/casbin/casbin-rs) - Authorization library that supports access control models like ACL, RBAC, ABAC in Rust.
+
 
 ### <a name="authZ-ios"></a>iOS
 
