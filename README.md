@@ -40,9 +40,10 @@
 
 ### <a name="authN-golang"></a>Golang
 
-- [ORY Hydra](https://github.com/ory/hydra) - OpenID Connect certified OAuth2 server.
-- [ORY Oathkeeper](https://github.com/ory/oathkeeper) - Identity/Access proxy inspired by the BeyondCorp/Zero-Trust white paper.
-- [ORY Fosite](https://github.com/ory/fosite) - Extensible OAuth 2.0 and OpenID Connect SDK for Golang.
+- [Ory Hydra](https://github.com/ory/hydra) - OpenID Connect certified OAuth2 server.
+- [Ory Kratos](https://github.com/ory/kratos) - API-first Identity and User Management system built for cloud applications. 
+- [Ory Oathkeeper](https://github.com/ory/oathkeeper) - Identity/Access proxy inspired by the BeyondCorp/Zero-Trust white paper.
+- [Ory Fosite](https://github.com/ory/fosite) - Extensible OAuth 2.0 and OpenID Connect SDK for Golang.
 
 ### <a name="authN-java"></a>Java
 
@@ -84,7 +85,7 @@
 - [Ladon](https://github.com/ory/ladon) - SDK for access control policies: authorization for the microservice and IoT age.
 - [Foulkon](https://github.com/Tecsisa/foulkon) - Authorization server that allows or denies access to web resources.
 - [Gocialite](https://github.com/danilopolani/gocialite) - Social OAuth login in Go with multiple providers has never been so easy.
-- [ORY Keto](https://github.com/ory/keto) - Access control server capable of solving complex use cases (multi-tenant, attribute-based access control, etc.) with access control policies.
+- [Ory Keto](https://github.com/ory/keto) - Access control server capable of solving complex use cases (multi-tenant, attribute-based access control, etc.) with access control policies.
 
 
 ### <a name="authZ-rust"></a>Rust
