@@ -40,6 +40,7 @@
 
 ### <a name="authN-golang"></a>Golang
 
+- [Casdoor](https://github.com/casbin/casdoor) - UI-first centralized authentication / Single-Sign-On (SSO) platform based on OAuth 2.0 / OIDC.
 - [Ory Hydra](https://github.com/ory/hydra) - OpenID Connect certified OAuth2 server.
 - [Ory Kratos](https://github.com/ory/kratos) - API-first Identity and User Management system built for cloud applications. 
 - [Ory Oathkeeper](https://github.com/ory/oathkeeper) - Identity/Access proxy inspired by the BeyondCorp/Zero-Trust white paper.
