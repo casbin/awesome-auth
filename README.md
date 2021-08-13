@@ -62,6 +62,7 @@
 - [Keystone](https://github.com/openstack/keystone) - Provides authentication, authorization and service discovery mechanisms via HTTP primarily for use by projects in the OpenStack family.
 - [Authomatic](https://github.com/authomatic/authomatic) - Simple yet powerful authorization & authentication client library for Python web applications.
 - [Python Social Auth](https://github.com/python-social-auth/social-core) - Easy to setup social authentication/registration mechanism with support for several frameworks and auth providers.
+- [Raider](https://github.com/DigeeX/raider) - Web authentication testing framework, which treats the authentication process as finite state machines.
 
 ### <a name="authN-ruby"></a>Ruby
 
