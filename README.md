@@ -88,12 +88,13 @@
 - [Foulkon](https://github.com/Tecsisa/foulkon) - Authorization server that allows or denies access to web resources.
 - [Gocialite](https://github.com/danilopolani/gocialite) - Social OAuth login in Go with multiple providers has never been so easy.
 - [Ory Keto](https://github.com/ory/keto) - Access control server capable of solving complex use cases (multi-tenant, attribute-based access control, etc.) with access control policies.
+- [Oso](https://github.com/osohq/oso) - Batteries-included framework for building authorization in your Go application.
 
 
 ### <a name="authZ-rust"></a>Rust
 
 - [Casbin-Rs](https://github.com/casbin/casbin-rs) - Authorization library that supports access control models like ACL, RBAC, ABAC in Rust.
-
+- [Oso](https://github.com/osohq/oso) - Batteries-included framework for building authorization in your Rust application.
 
 ### <a name="authZ-ios"></a>iOS
 
@@ -107,6 +108,7 @@
 - [AT&T XACML](https://github.com/att/XACML) - XACML 3.0 implementation from AT&T.
 - [Apache Sentry](https://github.com/apache/sentry) - Highly modular system for providing fine grained role based authorization to both data and metadata stored on an Apache Hadoop cluster.
 - [TOTP Server-Side Library](https://github.com/wstrange/GoogleAuth) - TOTP server-side library.
+- [Oso](https://github.com/osohq/oso) - Batteries-included framework for building authorization in your Java application.
 
 ### <a name="authZ-node"></a>Node.js
 
@@ -114,6 +116,7 @@
 - [RBAC](https://github.com/CherryProjects/rbac) - Hierarchical role-based access control for Node.js.
 - [ABAC](https://github.com/vovantics/abac) - Attribute-based access control for Node.js.
 - [accesscontrol](https://github.com/onury/accesscontrol) - Role and attribute-based access control for Node.js.
+- [Oso](https://github.com/osohq/oso) - Batteries-included framework for building authorization in your Node.js application.
 
 ### <a name="authZ-php"></a>PHP
 
@@ -131,6 +134,7 @@
 - [Simple RBAC](https://github.com/tonyseek/simple-rbac) - Simple role-based access control utility for Python.
 - [Flask-RBAC](https://github.com/shonenada/flask-rbac) - Adds RBAC support to [Flask](https://github.com/pallets/flask).
 - [Vakt](https://github.com/kolotaev/vakt) - Attribute-based access control (ABAC) SDK for Python.
+- [Oso](https://github.com/osohq/oso) - Batteries-included framework for building authorization in your Python application.
 
 ## Articles
 
@@ -138,6 +142,8 @@
 - [Basic Role-Based HTTP Authorization in Go with Casbin](https://zupzup.org/casbin-http-role-auth)
 - [Policy enforcements on Kubernetes with Banzai Cloud's Pipeline and Casbin](https://banzaicloud.com/blog/policy-enforcement-k8s/)
 - [Organizational RBAC in Argo CD with Casbin](https://argoproj.github.io/docs/argo-cd/docs/rbac.html)
+- [Authorization Academy: A series of technical guides for building application authorization](https://www.osohq.com/academy)
+- [Why Authorization is Hard](https://www.osohq.com/post/why-authorization-is-hard)
 
 ## Contribute
 
