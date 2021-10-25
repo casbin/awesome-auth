@@ -24,6 +24,7 @@
 	- [Node.js](#authZ-node)
 	- [PHP](#authZ-php)
 	- [Python](#authZ-python)
+	- [Ruby](#authZ-ruby)
 
 - [Articles](#articles)
 
@@ -131,6 +132,13 @@
 - [Simple RBAC](https://github.com/tonyseek/simple-rbac) - Simple role-based access control utility for Python.
 - [Flask-RBAC](https://github.com/shonenada/flask-rbac) - Adds RBAC support to [Flask](https://github.com/pallets/flask).
 - [Vakt](https://github.com/kolotaev/vakt) - Attribute-based access control (ABAC) SDK for Python.
+
+### <a name="authZ-ruby"></a>Ruby
+
+- [Oso](https://github.com/osohq/oso) - Batteries-included framework for building authorization in your Ruby application.
+- [Pundit](https://github.com/varvet/pundit) - Minimal authorization through OO design and pure Ruby classes.
+- [Casbin](https://github.com/CasbinRuby/casbin-ruby) - Authorization library that supports access control models like ACL, RBAC, ABAC in Ruby.
+- [CanCanCan](https://github.com/CanCanCommunity/cancancan) - Authorization for Ruby on Rails.
 
 ## Articles
 
