@@ -1,10 +1,12 @@
-# Awesome Authentication & Authorization [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Authentication & Authorization & SSO & IAM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Quality Authentication & Authorization software and libraries.
+> Quality Authentication & Authorization & SSO & IAM software and libraries.
 
 [Authentication (aka AuthN)](https://en.wikipedia.org/wiki/Authentication) and [authorization (aka AuthZ)](https://en.wikipedia.org/wiki/Authorization) are both security measures. Authentication is the process of verifying who you are. Authorization is the process of verifying that you have access to something. Authorization occurs after successful authentication.
 
 ## Contents
+
+- [SSO](#sso)
 
 - [Authentication](#authentication)
 	- [C#](#authN-cSharp)
@@ -28,6 +30,12 @@
 
 - [Articles](#articles)
 
+## SSO (Single-Sign-On), IAM (Identity Access Management)
+
+- [Casdoor](https://github.com/casdoor/casdoor) - UI-first centralized authentication / Single-Sign-On (SSO) platform supporting OAuth 2.0 / OIDC and SAML.
+- [Keycloak](https://www.keycloak.org/) - Open Source Identity and Access Management.
+- [Authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps.
+
 ## Authentication
 
 ### <a name="authN-cSharp"></a>C#
@@ -41,7 +49,7 @@
 
 ### <a name="authN-golang"></a>Golang
 
-- [Casdoor](https://github.com/casbin/casdoor) - UI-first centralized authentication / Single-Sign-On (SSO) platform based on OAuth 2.0 / OIDC.
+- [Casdoor](https://github.com/casdoor/casdoor) - UI-first centralized authentication / Single-Sign-On (SSO) platform supporting OAuth 2.0 / OIDC and SAML.
 - [Ory Hydra](https://github.com/ory/hydra) - OpenID Connect certified OAuth2 server.
 - [Ory Kratos](https://github.com/ory/kratos) - API-first Identity and User Management system built for cloud applications. 
 - [Ory Oathkeeper](https://github.com/ory/oathkeeper) - Identity/Access proxy inspired by the BeyondCorp/Zero-Trust white paper.
