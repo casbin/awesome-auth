@@ -98,6 +98,7 @@
 - [Gocialite](https://github.com/danilopolani/gocialite) - Social OAuth login in Go with multiple providers has never been so easy.
 - [Ory Keto](https://github.com/ory/keto) - Access control server capable of solving complex use cases (multi-tenant, attribute-based access control, etc.) with access control policies.
 - [Oso](https://github.com/osohq/oso) - Batteries-included framework for building authorization in your Go application.
+- [ZITADEL](https://github.com/caos/zitadel) - Cloud-native Identity & Access Management platform for secure authentication, authorization and identity management.
 
 
 ### <a name="authZ-rust"></a>Rust
