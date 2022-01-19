@@ -55,6 +55,7 @@
 - [Ory Kratos](https://github.com/ory/kratos) - API-first Identity and User Management system built for cloud applications. 
 - [Ory Oathkeeper](https://github.com/ory/oathkeeper) - Identity/Access proxy inspired by the BeyondCorp/Zero-Trust white paper.
 - [Ory Fosite](https://github.com/ory/fosite) - Extensible OAuth 2.0 and OpenID Connect SDK for Golang.
+- [ZITADEL](https://github.com/caos/zitadel) - Cloud-native Identity & Access Management platform for secure authentication, authorization and identity management.
 
 ### <a name="authN-java"></a>Java
 
