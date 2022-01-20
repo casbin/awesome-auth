@@ -35,6 +35,7 @@
 - [Casdoor](https://github.com/casdoor/casdoor) - UI-first centralized authentication / Single-Sign-On (SSO) platform supporting OAuth 2.0 / OIDC and SAML.
 - [Keycloak](https://www.keycloak.org/) - Open Source Identity and Access Management.
 - [Authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps.
+- [ZITADEL](https://github.com/caos/zitadel) - Cloud-native Identity & Access Management platform for secure authentication, authorization and identity management.
 
 ## Authentication
 
@@ -50,10 +51,12 @@
 ### <a name="authN-golang"></a>Golang
 
 - [Casdoor](https://github.com/casdoor/casdoor) - UI-first centralized authentication / Single-Sign-On (SSO) platform supporting OAuth 2.0 / OIDC and SAML.
+- [OIDC](https://github.com/caos/oidc) - OpenID Connect Library (client and server) for Go
 - [Ory Hydra](https://github.com/ory/hydra) - OpenID Connect certified OAuth2 server.
 - [Ory Kratos](https://github.com/ory/kratos) - API-first Identity and User Management system built for cloud applications. 
 - [Ory Oathkeeper](https://github.com/ory/oathkeeper) - Identity/Access proxy inspired by the BeyondCorp/Zero-Trust white paper.
 - [Ory Fosite](https://github.com/ory/fosite) - Extensible OAuth 2.0 and OpenID Connect SDK for Golang.
+- [ZITADEL](https://github.com/caos/zitadel) - Cloud-native Identity & Access Management platform for secure authentication, authorization and identity management.
 
 ### <a name="authN-java"></a>Java
 
@@ -96,8 +99,10 @@
 - [Ladon](https://github.com/ory/ladon) - SDK for access control policies: authorization for the microservice and IoT age.
 - [Foulkon](https://github.com/Tecsisa/foulkon) - Authorization server that allows or denies access to web resources.
 - [Gocialite](https://github.com/danilopolani/gocialite) - Social OAuth login in Go with multiple providers has never been so easy.
+- [OIDC](https://github.com/caos/oidc) - OpenID Connect Library (client and server) for Go
 - [Ory Keto](https://github.com/ory/keto) - Access control server capable of solving complex use cases (multi-tenant, attribute-based access control, etc.) with access control policies.
 - [Oso](https://github.com/osohq/oso) - Batteries-included framework for building authorization in your Go application.
+- [ZITADEL](https://github.com/caos/zitadel) - Cloud-native Identity & Access Management platform for secure authentication, authorization and identity management.
 
 
 ### <a name="authZ-rust"></a>Rust
