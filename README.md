@@ -103,6 +103,7 @@
 - [OIDC](https://github.com/caos/oidc) - OpenID Connect Library (client and server) for Go
 - [Ory Keto](https://github.com/ory/keto) - Access control server capable of solving complex use cases (multi-tenant, attribute-based access control, etc.) with access control policies.
 - [Oso](https://github.com/osohq/oso) - Batteries-included framework for building authorization in your Go application.
+- [Topaz](https://www.topaz.sh) - Fine-grained authorization for cloud-native applications. Combining the best of OPA and Zanzibar
 - [ZITADEL](https://github.com/caos/zitadel) - Cloud-native Identity & Access Management platform for secure authentication, authorization and identity management.
 
 
