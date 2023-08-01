@@ -50,7 +50,7 @@
 - [AspNetSaml](https://github.com/jitbit/AspNetSaml) - SAML library for ASP.NET Core
 - [AspNet.Security.OAuth.Providers](https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers) - OAuth2 social authentication providers for ASP.NET Core.
 - [IdentityServer4](https://github.com/IdentityServer/IdentityServer4) - OpenID Connect & OAuth 2.0 framework for ASP.NET Core.
-- [Authgear SDK for Xamarin](https://github.com/authgear/authgear-sdk-xamarin) - You can easily integrate authentication features into your Xamarin apps. In most cases, it involves just a few lines of code to enable multiple authentication methods,
+- [Authgear SDK for Xamarin](https://github.com/authgear/authgear-sdk-xamarin) - You can easily integrate authentication features into your Xamarin apps. In most cases, it involves just a few lines of code to enable multiple authentication methods.
 
 ### <a name="authN-golang"></a>Golang
 
