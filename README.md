@@ -6,29 +6,31 @@
 
 ## Contents
 
-- [SSO](#sso)
-
-- [Authentication](#authentication)
-	- [C#](#authN-cSharp)
-	- [Golang](#authN-golang)
-	- [Java](#authN-java)
-	- [Node.js](#authN-node)
-	- [Python](#authN-python)
-	- [Ruby](#authN-ruby)
-
-- [Authorization](#authorization)
-	- [Android](#authZ-android)
-	- [C#](#authZ-cSharp)
-	- [Golang](#authZ-golang)
-	- [Rust](#authZ-rust)
-	- [iOS](#authZ-ios)
-	- [Java](#authZ-java)
-	- [Node.js](#authZ-node)
-	- [PHP](#authZ-php)
-	- [Python](#authZ-python)
-	- [Ruby](#authZ-ruby)
-
-- [Articles](#articles)
+- [Awesome Authentication \& Authorization \& SSO \& IAM ](#awesome-authentication--authorization--sso--iam-)
+	- [Contents](#contents)
+	- [SSO (Single-Sign-On), IAM (Identity Access Management)](#sso-single-sign-on-iam-identity-access-management)
+	- [Authentication](#authentication)
+		- [C#](#c)
+		- [Golang](#golang)
+		- [Java](#java)
+		- [Node.js](#nodejs)
+		- [Python](#python)
+		- [Ruby](#ruby)
+		- [Flutter](#flutter)
+	- [Authorization](#authorization)
+		- [Android](#android)
+		- [C#](#c-1)
+		- [Golang](#golang-1)
+		- [Rust](#rust)
+		- [iOS](#ios)
+		- [Java](#java-1)
+		- [Node.js](#nodejs-1)
+		- [PHP](#php)
+		- [Python](#python-1)
+		- [Ruby](#ruby-1)
+	- [Articles](#articles)
+	- [Contribute](#contribute)
+	- [License](#license)
 
 ## SSO (Single-Sign-On), IAM (Identity Access Management)
 
@@ -48,6 +50,7 @@
 - [AspNetSaml](https://github.com/jitbit/AspNetSaml) - SAML library for ASP.NET Core
 - [AspNet.Security.OAuth.Providers](https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers) - OAuth2 social authentication providers for ASP.NET Core.
 - [IdentityServer4](https://github.com/IdentityServer/IdentityServer4) - OpenID Connect & OAuth 2.0 framework for ASP.NET Core.
+- [Authgear SDK for Xamarin](https://github.com/authgear/authgear-sdk-xamarin) - You can easily integrate authentication features into your Xamarin apps. In most cases, it involves just a few lines of code to enable multiple authentication methods.
 
 ### <a name="authN-golang"></a>Golang
 
@@ -81,11 +84,16 @@
 
 - [Authlogic](https://github.com/binarylogic/authlogic) - Clean, simple, and unobtrusive Ruby authentication solution.
 
+### <a name="authN-flutter"></a>Flutter
+
+- [Authgear SDK for Flutter](https://github.com/authgear/authgear-sdk-flutter) - With Authgear SDK for Flutter, you can easily integrate authentication features into your Flutter apps. In most cases, it involves just a few lines of code to enable multiple authentication methods.
+
 ## Authorization
 
 ### <a name="authZ-android"></a>Android
 
 - [AndPermission](https://github.com/yanzhenjie/AndPermission) - Android runtime permission, support the right to apply for permission at any place.
+- [Authgear SDK for Android](https://github.com/authgear/authgear-sdk-android) - Android SDK to authenticate and authorize users based on the OAuth 2.0 authorization framework.
 
 ### <a name="authZ-cSharp"></a>C#
 
@@ -114,6 +122,7 @@
 ### <a name="authZ-ios"></a>iOS
 
 - [Permission](https://github.com/delba/Permission) - Unified API to ask for permissions on iOS.
+- [Authgear SDK for iOS](https://github.com/authgear/authgear-sdk-ios) - With Authgear SDK for iOS, you can easily integrate authorization features into your iOS apps.
 
 ### <a name="authZ-java"></a>Java
 
