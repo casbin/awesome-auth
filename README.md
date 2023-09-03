@@ -129,7 +129,7 @@
 - [jCasbin](https://github.com/casbin/jcasbin) - Authorization library that supports access control models like ACL, RBAC, ABAC in Java.
 - [Apache Shiro](https://github.com/apache/shiro) - Powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management.
 - [pac4j](https://github.com/pac4j/pac4j) - Security engine for Java (authentication, authorization, multi-frameworks): OAuth, CAS, SAML, OpenID Connect, LDAP, JWT.
-- [AT&T XACML](https://github.com/att/XACML) - XACML 3.0 implementation from AT&T.
+- [AT&T XACML](https://github.com/att/xacml-3.0) - XACML 3.0 implementation from AT&T.
 - [Apache Sentry](https://github.com/apache/sentry) - Highly modular system for providing fine grained role based authorization to both data and metadata stored on an Apache Hadoop cluster.
 - [TOTP Server-Side Library](https://github.com/wstrange/GoogleAuth) - TOTP server-side library.
 - [Oso](https://github.com/osohq/oso) - Batteries-included framework for building authorization in your Java application.
@@ -169,10 +169,10 @@
 
 ## Articles
 
-- [Modeling Authorization with PERM in Casbin](https://vicarie.in/posts/generalized-authz.html)
+- [Modeling Authorization with PERM in Casbin](https://narendraj9.github.io/posts/generalized-authz.html)
 - [Basic Role-Based HTTP Authorization in Go with Casbin](https://zupzup.org/casbin-http-role-auth)
 - [Policy enforcements on Kubernetes with Banzai Cloud's Pipeline and Casbin](https://banzaicloud.com/blog/policy-enforcement-k8s/)
-- [Organizational RBAC in Argo CD with Casbin](https://argoproj.github.io/docs/argo-cd/docs/rbac.html)
+- [Organizational RBAC in Argo CD with Casbin](https://argo-cd.readthedocs.io/en/stable/operator-manual/rbac/)
 - [Authorization Academy: A series of technical guides for building application authorization](https://www.osohq.com/academy)
 - [Why Authorization is Hard](https://www.osohq.com/post/why-authorization-is-hard)
 
