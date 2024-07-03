@@ -39,6 +39,7 @@
 - [Authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps.
 - [ZITADEL](https://github.com/caos/zitadel) - Cloud-native Identity & Access Management platform for secure authentication, authorization and identity management.
 - [Authentik](https://goauthentik.io) - authentik is an open-source Identity Provider that emphasizes flexibility and versatility. It can be seamlessly integrated into existing environments to support new protocols.
+- [LemonLDAP::NG](https://lemonldap-ng.org/) -  provides authentication (LDAP, Active Directory, Kerberos, Database, SSL, Social Networks, CAS, SAML, OpenID Connect, ...), authorization (access rules for applications based on attributes and groups) and accounting (user identity in logs).
 
 ## Authentication
 
