@@ -39,6 +39,7 @@
 - [Authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps.
 - [ZITADEL](https://github.com/caos/zitadel) - Cloud-native Identity & Access Management platform for secure authentication, authorization and identity management.
 - [Authentik](https://goauthentik.io) - authentik is an open-source Identity Provider that emphasizes flexibility and versatility. It can be seamlessly integrated into existing environments to support new protocols.
+- [SSOJet](https://ssojet.com) - Comprehensive Enterprise SSO and a suite of ready-to-use enterprise features.
 
 ## Authentication
 
