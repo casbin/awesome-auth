@@ -39,6 +39,7 @@
 - [Authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps.
 - [ZITADEL](https://github.com/caos/zitadel) - Cloud-native Identity & Access Management platform for secure authentication, authorization and identity management.
 - [Authentik](https://goauthentik.io) - authentik is an open-source Identity Provider that emphasizes flexibility and versatility. It can be seamlessly integrated into existing environments to support new protocols.
+- [Stack Auth](https://stack-auth.com) - Open-source, developer-friendly authentication, authorization, and IAM solution.
 
 ## Authentication
 
@@ -73,6 +74,7 @@
 
 - [Passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js. A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
 - [bell](https://github.com/hapijs/bell) - Third-party authentication plugin for hapi. Ships with built-in support for various well-known sites and simple configuration object will support other OAuth 1.0a and OAuth 2.0 sites.
+- [Stack Auth](https://stack-auth.com) - Open-source authN & authZ for modern web apps, comes with pre-built components for Next.js.
 
 ### <a name="authN-python"></a>Python
 
@@ -143,6 +145,7 @@
 - [ABAC](https://github.com/vovantics/abac) - Attribute-based access control for Node.js.
 - [accesscontrol](https://github.com/onury/accesscontrol) - Role and attribute-based access control for Node.js.
 - [Oso](https://github.com/osohq/oso) - Batteries-included framework for building authorization in your Node.js application.
+- [Stack Auth](https://stack-auth.com) - Open-source authN & authZ for modern web apps, comes with pre-built components for Next.js.
 
 ### <a name="authZ-php"></a>PHP
 
