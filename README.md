@@ -75,6 +75,7 @@
 - [Passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js. A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
 - [bell](https://github.com/hapijs/bell) - Third-party authentication plugin for hapi. Ships with built-in support for various well-known sites and simple configuration object will support other OAuth 1.0a and OAuth 2.0 sites.
 - [Stack Auth](https://stack-auth.com) - Open-source authN & authZ for modern web apps, comes with pre-built components for Next.js.
+- [OpenAuth](https://openauth.js.org/) - Standards-based auth provider for web apps, mobile apps, single pages apps, APIs, or 3rd party clients. Universal, self-hosted,customizable.
 
 ### <a name="authN-python"></a>Python
 
