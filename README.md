@@ -10,6 +10,7 @@
 	- [Contents](#contents)
 	- [SSO (Single-Sign-On), IAM (Identity Access Management)](#sso-single-sign-on-iam-identity-access-management)
 	- [Authentication](#authentication)
+		- [Ballerina](#ballerina)
 		- [C#](#c)
 		- [Golang](#golang)
 		- [Java](#java)
@@ -42,6 +43,9 @@
 - [Stack Auth](https://stack-auth.com) - Open-source, developer-friendly authentication, authorization, and IAM solution.
 
 ## Authentication
+
+### <a name="authN-Ballerina"></a>Ballerina
+- [ballerina-auth](https://github.com/ballerina-platform/module-ballerina-auth) - Ballerina Auth Standard Library.
 
 ### <a name="authN-cSharp"></a>C#
 
