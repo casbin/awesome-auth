@@ -19,6 +19,7 @@
 		- [Flutter](#flutter)
 	- [Authorization](#authorization)
 		- [Android](#android)
+		- [Ballerina](#ballerina-1)
 		- [C#](#c-1)
 		- [Golang](#golang-1)
 		- [Rust](#rust)
@@ -97,6 +98,9 @@
 
 - [AndPermission](https://github.com/yanzhenjie/AndPermission) - Android runtime permission, support the right to apply for permission at any place.
 - [Authgear SDK for Android](https://github.com/authgear/authgear-sdk-android) - Android SDK to authenticate and authorize users based on the OAuth 2.0 authorization framework.
+
+### <a name="authZ-Ballerina"></a>Ballerina
+- [ballerina-oauth2](https://github.com/ballerina-platform/module-ballerina-auth) - Ballerina OAuth2 Standard Library.
 
 ### <a name="authZ-cSharp"></a>C#
 
