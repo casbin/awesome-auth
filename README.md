@@ -146,6 +146,7 @@
 - [accesscontrol](https://github.com/onury/accesscontrol) - Role and attribute-based access control for Node.js.
 - [Oso](https://github.com/osohq/oso) - Batteries-included framework for building authorization in your Node.js application.
 - [Stack Auth](https://stack-auth.com) - Open-source authN & authZ for modern web apps, comes with pre-built components for Next.js.
+- [pundit-ts](https://github.com/fatihky/pundit-ts) - Fully type-safe authorization library inspired by awesome [pundit](https://github.com/varvet/pundit) gem. Can be used for RBAC, ABAC access control models or any other model you wish.
 
 ### <a name="authZ-php"></a>PHP
 
