@@ -28,6 +28,7 @@
 		- [PHP](#php)
 		- [Python](#python-1)
 		- [Ruby](#ruby-1)
+   	- [Testing Tools](#testing-tools)
 	- [Articles](#articles)
 	- [Contribute](#contribute)
 	- [License](#license)
@@ -173,6 +174,8 @@
 - [Casbin](https://github.com/CasbinRuby/casbin-ruby) - Authorization library that supports access control models like ACL, RBAC, ABAC in Ruby.
 - [CanCanCan](https://github.com/CanCanCommunity/cancancan) - Authorization for Ruby on Rails.
 
+## Testing Tools
+- [SAML Tester](https://saml-tester.compile7.org/) - Web tool to test SAML and SCIM integration.
 ## Articles
 
 - [Modeling Authorization with PERM in Casbin](https://narendraj9.github.io/posts/generalized-authz.html)
