@@ -47,7 +47,6 @@
 
 ### <a name="authN-cSharp"></a>C#
 
-- [Xamarin.Auth](https://github.com/xamarin/Xamarin.Auth) - Helps developers authenticate users via standard authentication mechanisms (e.g. OAuth 1.0 and 2.0), and store user credentials.
 - [Kentor Authentication Services](https://github.com/KentorIT/authservices) - Saml2 authentication services for ASP.NET.
 - [SimpleAuthentication](https://github.com/SimpleAuthentication/SimpleAuthentication) - ASP.NET library that makes it really easy and simple for developers to add social authentication to an ASP.NET application.
 - [OwinOAuthProviders](https://github.com/TerribleDev/OwinOAuthProviders) - OAuth providers for Owin.
@@ -103,21 +102,18 @@
 ### <a name="authZ-cSharp"></a>C#
 
 - [Casbin.NET](https://github.com/casbin/Casbin.NET) - Authorization library that supports access control models like ACL, RBAC, ABAC in .NET (C#).
-- [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth) - Implementation of the OpenID, OAuth protocols.
-- [AuthorizationServer](https://github.com/IdentityModel/AuthorizationServer) - Sample implementation of an OAuth2 authorization server.
 
 ### <a name="authZ-golang"></a>Golang
 
 - [Casbin](https://github.com/casbin/casbin) - Authorization library that supports access control models like ACL, RBAC, ABAC in Golang.
 - [goRBAC](https://github.com/mikespook/gorbac) - Lightweight role-based access control implementation in Go.
 - [Ladon](https://github.com/ory/ladon) - SDK for access control policies: authorization for the microservice and IoT age.
-- [Foulkon](https://github.com/Tecsisa/foulkon) - Authorization server that allows or denies access to web resources.
-- [Gocialite](https://github.com/danilopolani/gocialite) - Social OAuth login in Go with multiple providers has never been so easy.
-- [OIDC](https://github.com/caos/oidc) - OpenID Connect Library (client and server) for Go
+- [OIDC](https://github.com/zitadel/oidc) - OpenID Connect Library (client and server) for Go
 - [Ory Keto](https://github.com/ory/keto) - Access control server capable of solving complex use cases (multi-tenant, attribute-based access control, etc.) with access control policies.
 - [Oso](https://github.com/osohq/oso) - Batteries-included framework for building authorization in your Go application.
 - [Topaz](https://www.topaz.sh) - Fine-grained authorization for cloud-native applications. Combining the best of OPA and Zanzibar
-- [ZITADEL](https://github.com/caos/zitadel) - Cloud-native Identity & Access Management platform for secure authentication, authorization and identity management.
+- [SpiceDB](https://github.com/authzed/spicedb) - Open-source implementation of the Zanzibar paper, a performant database for fine-grained permissions.
+- [ZITADEL](https://github.com/zitadel/zitadel) - Cloud-native Identity & Access Management platform for secure authentication, authorization and identity management.
 
 
 ### <a name="authZ-rust"></a>Rust
@@ -136,7 +132,6 @@
 - [Apache Shiro](https://github.com/apache/shiro) - Powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management.
 - [pac4j](https://github.com/pac4j/pac4j) - Security engine for Java (authentication, authorization, multi-frameworks): OAuth, CAS, SAML, OpenID Connect, LDAP, JWT.
 - [AT&T XACML](https://github.com/att/xacml-3.0) - XACML 3.0 implementation from AT&T.
-- [Apache Sentry](https://github.com/apache/sentry) - Highly modular system for providing fine grained role based authorization to both data and metadata stored on an Apache Hadoop cluster.
 - [TOTP Server-Side Library](https://github.com/wstrange/GoogleAuth) - TOTP server-side library.
 - [Oso](https://github.com/osohq/oso) - Batteries-included framework for building authorization in your Java application.
 
@@ -163,7 +158,6 @@
 ### <a name="authZ-python"></a>Python
 
 - [PyCasbin](https://github.com/casbin/pycasbin) - Authorization library that supports access control models like ACL, RBAC, ABAC in Python.
-- [Simple RBAC](https://github.com/tonyseek/simple-rbac) - Simple role-based access control utility for Python.
 - [Flask-RBAC](https://github.com/shonenada/flask-rbac) - Adds RBAC support to [Flask](https://github.com/pallets/flask).
 - [Vakt](https://github.com/kolotaev/vakt) - Attribute-based access control (ABAC) SDK for Python.
 - [Oso](https://github.com/osohq/oso) - Batteries-included framework for building authorization in your Python application.
@@ -179,7 +173,7 @@
 
 - [Modeling Authorization with PERM in Casbin](https://narendraj9.github.io/posts/generalized-authz.html)
 - [Basic Role-Based HTTP Authorization in Go with Casbin](https://zupzup.org/casbin-http-role-auth)
-- [Policy enforcements on Kubernetes with Banzai Cloud's Pipeline and Casbin](https://banzaicloud.com/blog/policy-enforcement-k8s/)
+- [Policy enforcements on Kubernetes with Banzai Cloud's Pipeline and Casbin](https://outshift.cisco.com/blog/policy-enforcement-k8s)
 - [Organizational RBAC in Argo CD with Casbin](https://argo-cd.readthedocs.io/en/stable/operator-manual/rbac/)
 - [Authorization Academy: A series of technical guides for building application authorization](https://www.osohq.com/academy)
 - [Why Authorization is Hard](https://www.osohq.com/post/why-authorization-is-hard)
