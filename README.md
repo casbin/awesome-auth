@@ -42,6 +42,7 @@
 - [Stack Auth](https://stack-auth.com) - Open-source, developer-friendly authentication, authorization, and IAM solution.
 - [Scalekit](https://scalekit.com) – Add enterprise SSO (SAML, OIDC) and SCIM provisioning on top of existing auth systems like Auth0, Firebase, or Cognito without rewrites.
 - [SSOJet](https://ssojet.com) – Add enterprise SSO (SAML, OIDC) and SCIM user provisioning to your app without changing your existing authentication system.
+- [Logto](https://github.com/logto-io/logto) - An IAM infrastructure with AuthN, AuthZ, MFA, SSO, user management, and multi-tenancy features, supporting OAuth 2.0, OIDC, and SAML.
 
 
 ## Authentication
