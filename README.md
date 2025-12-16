@@ -40,7 +40,7 @@
 - [ZITADEL](https://github.com/caos/zitadel) - Cloud-native Identity & Access Management platform for secure authentication, authorization and identity management.
 - [Authentik](https://goauthentik.io) - authentik is an open-source Identity Provider that emphasizes flexibility and versatility. It can be seamlessly integrated into existing environments to support new protocols.
 - [Stack Auth](https://stack-auth.com) - Open-source, developer-friendly authentication, authorization, and IAM solution.
-- [Scalekit](https://scalekit.com) – Add enterprise SSO (SAML, OIDC) and SCIM provisioning on top of existing auth systems like Auth0, Firebase, or Cognito without rewrites.
+- [Scalekit](https://scalekit.com) – Add enterprise SSO (SAML, OIDC) and SCIM provisioning on top of existing auth systems alongside additive auth stack for MCP and Agent Auth.
 - [SSOJet](https://ssojet.com) – Add enterprise SSO (SAML, OIDC) and SCIM user provisioning to your app without changing your existing authentication system.
 - [Logto](https://github.com/logto-io/logto) - An IAM infrastructure with AuthN, AuthZ, MFA, SSO, user management, and multi-tenancy features, supporting OAuth 2.0, OIDC, and SAML.
 
