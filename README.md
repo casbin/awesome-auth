@@ -96,6 +96,10 @@
 
 ## Authorization
 
+### Multiple Language Support 
+
+- [Permit.io] - An authorization-as-a-service solution that supports creating and managing RBAC, ABAC, and ReBAC policies with a no-code UI. Includes SDKs for [Node.js](https://docs.permit.io/sdk/nodejs/quickstart-nodejs), [Python](https://docs.permit.io/sdk/python/quickstart_python_sync), [Golang0(https://docs.permit.io/sdk/golang/quickstart-golang), [.NET](https://docs.permit.io/sdk/dotnet/quickstart-dotnet), [Java](https://docs.permit.io/sdk/java/quickstart-java) and many more. 
+
 ### <a name="authZ-android"></a>Android
 
 - [AndPermission](https://github.com/yanzhenjie/AndPermission) - Android runtime permission, support the right to apply for permission at any place.
